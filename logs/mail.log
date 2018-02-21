@@ -1,0 +1,6 @@
+2018-02-19 09:40:06 u86503972 0ZnOHE-1eLFzL1oWf-00kjL4 |< REMOTE=87.160.199.54 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2018-02-19 09:40:06 u86503972 0ZnOHE-1eLFzL1oWf-00kjL4 <= S=wordpress@taverna-italiana.de SZ=1293 D=0 SID=648262192
+2018-02-19 09:40:06 u86503972 0ZnOHE-1eLFzL1oWf-00kjL4 => info@taverna-italiana.de msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0MJIbO-1ekw6W20ba-002sVq
+2018-02-19 10:39:09 u86503972 0ZUTyr-1edlnF22zk-0138nV |< REMOTE="2001:638:90a:d000::33" SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2018-02-19 10:39:09 u86503972 0ZUTyr-1edlnF22zk-0138nV <= S=wordpress@taverna-italiana.de SZ=1224 D=0 SID=648262192
+2018-02-19 10:39:09 u86503972 0ZUTyr-1edlnF22zk-0138nV => info@taverna-italiana.de msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0Lgysp-1eSPm62Ahr-00oY2S
